@@ -51,7 +51,7 @@ As applications grow, developers often need to manage many containers. Managing 
 - **Node**: Each machine in a Kubernetes cluster is called a node. Nodes can be physical machines or virtual machines.
 - **Pod**: A pod is the smallest unit in Kubernetes. It usually runs one or more containers that work closely together.
 - **Service**: Kubernetes can expose containers to the outside world via services. Services ensure that traffic is directed to the right containers.
-
+ 
 ---
 
 ## Benefits of Kubernetes:
