@@ -16,7 +16,7 @@ Virtualization involves creating a virtual version of something, such as a serve
   - Allows multiple isolated user-space instances (containers) to run on a single operating system.
   - **Examples**: Docker, LXC (Linux Containers).
 
-- **Server Virtualization**:
+- **Server's Virtualization**:
   - Splits a physical server into multiple unique and isolated virtual servers.
   - **Examples**: VMware vSphere, Microsoft Hyper-V.
 
