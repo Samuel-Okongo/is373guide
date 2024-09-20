@@ -49,6 +49,10 @@ Virtualization, using tools like **VirtualBox** and **VMware**, allows multiple 
 
 [VirtualBox](https://github.com/cr432/is373guide/wiki/VirtualBox)
 
+## Introduction to Twelve Factor App
+
+![TwelveFactorApp](./images/TwelveFactorApp.png)
+
 ## Introduction to Kernels
 
 ![Kernels](./images/kernel.png)
