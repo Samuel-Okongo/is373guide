@@ -179,3 +179,4 @@ Here’s a quick recap of the commands mentioned in this guide:
 
 ---
 
+![Docker Diagram](./images/docker.jpg)
