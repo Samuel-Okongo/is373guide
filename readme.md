@@ -53,6 +53,18 @@ Virtualization, using tools like **VirtualBox** and **VMware**, allows multiple 
 
 ![TwelveFactorApp](./images/TwelveFactorApp.jpg)
 
+Why the Twelve-Factor App Matters:
+
+For beginner developers, understanding the Twelve-Factor App is crucial because it provides a set of best practices for building scalable, maintainable, and cloud-ready applications. It emphasizes:
+
+- Simplicity: Helps keep your codebase clean and manageable.
+- Consistency: Ensures that your app can run in different environments (local, staging, production) with minimal friction.
+- Scalability: Prepares your app to handle growth and increased demand by following modern development principles.
+
+Learning these practices early will help you build more robust and reliable applications that can easily adapt to changing requirements.
+
+### If you want to learn more about the Twelve-Factor App --> [Twelve Factor App](https://github.com/cr432/is373guide/wiki/Twelve-Factor-App)
+
 ## Introduction to Kernels
 
 ![Kernels](./images/kernel.png)
