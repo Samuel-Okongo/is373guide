@@ -51,7 +51,7 @@ Virtualization, using tools like **VirtualBox** and **VMware**, allows multiple 
 
 ## Introduction to Twelve Factor App
 
-![TwelveFactorApp](./images/TwelveFactorApp.png)
+![TwelveFactorApp](./images/TwelveFactorApp.jng)
 
 ## Introduction to Kernels
 
