@@ -5,7 +5,7 @@
 ## Introduction
 Containerization packages applications along with their dependencies into isolated environments called containers. This ensures consistency across different computing environments. Containers make software portable, reliable, and easier to manage. Think of it like packing everything you need for a picnic into one basket so nothing is forgotten when you move locations.
 
----
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.altexsoft.com%2Fblog%2Fdocker-pros-and-cons%2F&psig=AOvVaw3RZ5rgYQHtx1txGN5wlSI-&ust=1726894973442000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC5hJ7f0IgDFQAAAAAdAAAAABAE)
 
 ## Why Use Containers?
 
