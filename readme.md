@@ -37,6 +37,18 @@ Virtualization, using tools like **VirtualBox** and **VMware**, allows multiple 
 
 [Virtualization](https://github.com/cr432/is373guide/blob/development/virtualization.md)
 
+### Learn more about WSL2 below:
+
+![WSL2](./images/wsl2.jpeg)
+
+[WSL2](https://github.com/cr432/is373guide/wiki/WSL2)
+
+### Learn more about VirtualBox below:
+
+![VirtualBox](./images/VirtualBox.jpg)
+
+[VirtualBox](https://github.com/cr432/is373guide/wiki/VirtualBox)
+
 ## Introduction to Kernels
 
 ![Kernels](./images/kernel.png)
