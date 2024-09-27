@@ -45,6 +45,8 @@ Picture this: You’re developing an application that needs to run on different 
 
 With tools like **VirtualBox** and **VMware**, virtualization allows you to run different operating systems side-by-side. It’s a vital tool for testing, development, and even security research. In a way, virtualization is like creating small, self-contained universes that each serve a specific purpose.
 
+![Virtualization](./images/virtual.jpg)
+
 [Learn more about Virtualization](https://github.com/cr432/is373guide/blob/development/virtualization.md)
 
 And if you're a Windows user, you might be interested in an even simpler way to get the power of Linux on your machine through **Windows Subsystem for Linux (WSL2)**.
