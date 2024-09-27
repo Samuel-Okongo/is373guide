@@ -6,6 +6,9 @@ In today’s fast-paced world, software development is about more than just writ
 
 Let's start from the beginning.
 
+
+[Cycle](./images/dev.jpg)
+
 ## The Lifeblood of Collaboration: Version Control Systems
 
 Imagine you’re working on a project with multiple developers. You each make changes to the code, and suddenly, you find yourselves stepping on each other’s toes. Without a system to manage these changes, chaos would ensue.
